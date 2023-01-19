@@ -2,7 +2,10 @@
 ```bash
 git clone https://github.com/Paquette1111/sveltekit-tailwind-prismic-starter
 ```
+
 ## Developing
+
+Update const `repoName = 'avery-website'` located in `app/src/lib/prismicio.js`
 
 ```bash
 npm run dev
