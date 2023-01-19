@@ -5,7 +5,7 @@ git clone https://github.com/Paquette1111/sveltekit-tailwind-prismic-starter
 
 ## Developing
 
-Update `const repoName = 'avery-website'` located in `app/src/lib/prismicio.js` to the name of your prismic repo
+Update `const repoName = 'example-website'` located in `app/src/lib/prismicio.js` to the name of your prismic repo
 
 ```bash
 npm run dev
